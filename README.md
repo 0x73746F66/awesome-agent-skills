@@ -122,23 +122,6 @@ Guides and tools for authoring, validating, and distributing skills.
 - [IntentKit](https://github.com/crestalnetwork/intentkit) - Framework: Intent-driven agent building.
 - [Agentica](https://github.com/wrtnlabs/agentica) - Framework: TypeScript function-calling utilities for agents.
 
-### Reference Implementations
-
-#### Development and Programming
-
-- [kylehughes/the-unofficial-swift-concurrency-migration-skill](https://github.com/kylehughes/the-unofficial-swift-concurrency-migration-skill) - Skill-style guide for Swift concurrency migrations.
-- [gapmiss/obsidian-plugin-skill](https://github.com/gapmiss/obsidian-plugin-skill) - Skill package for Obsidian plugin development.
-- [frmoretto/stream-coding](https://github.com/frmoretto/stream-coding) - Stream-coding methodology reference.
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion/tree/main/packages/skills) - Skill package that define best practices for working in Remotion projects. 
-
-#### Integration and Automation
-
-- [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - Browser capability for agents.
-- [gotalab/skillport](https://github.com/gotalab/skillport) - CLI and MCP-based skill distribution.
-- [gmickel/sheets-cli](https://github.com/gmickel/sheets-cli) - Google Sheets automation via CLI.
-- [fabioc-aloha/spotify-skill](https://github.com/fabioc-aloha/spotify-skill) - Spotify API integration skill.
-- [Vulnetix](https://github.com/Vulnetix/claude-code-plugin) - Plugin: Vulnerability intelligence and remediation skills for Claude Code — exploit analysis, fix proposals, scoring, and malware via the Vulnetix VDB API.
-
 ## Phase 4: Benchmarks and Research
 
 Evaluation frameworks and deeper technical reading.
@@ -159,7 +142,9 @@ Evaluation frameworks and deeper technical reading.
 - [yzfly/Mind-Cloning-Engineering](https://github.com/yzfly/Mind-Cloning-Engineering) - Repository: Techniques for building reusable skill knowledge.
 
 ### Academic Papers
-
+- [SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents](https://arxiv.org/abs/2604.17308) (2026) - A benchmark for evaluating autonomous agents' ability to discover, repair, and maintain skills over time
+- [Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills](https://arxiv.org/abs/2604.05333) (2026) - Enabling efficient inference in large skill libraries by constructing executable skill graphs
+- [SkillClaw: Let Skills Evolve Collectively with Agentic Evolver](https://arxiv.org/abs/2604.08377) (2026) - Aggregating user interactions to autonomously improve reusable skills
 - [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448) (2026) - An open infrastructure designed to create, evaluate, and organize AI skills at scale
 - [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670) (2026) - Benchmark consisting of 86 tasks across 11 domains
 - [Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections](https://arxiv.org/abs/2510.26328) (2025) - Security analysis of skill-file prompt injection risks.
